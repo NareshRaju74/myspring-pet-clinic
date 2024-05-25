@@ -8,8 +8,6 @@
 	<description>Spring Boot Enhanced Pet Clinic</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 
-	<packaging>war</packaging>
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
